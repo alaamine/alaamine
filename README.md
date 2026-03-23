@@ -1,4 +1,4 @@
-# Salut, moi c'est Alamine 👋
+# Salut, moi c'est Alamine 
 
 **Étudiant en Bachelor 2 Informatique @ Supinfo Paris** | Data Analyste en devenir
 
