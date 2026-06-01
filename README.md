@@ -58,11 +58,6 @@
 
 ---
 
-##  Stats GitHub
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=alaamine&show_icons=true&theme=default&hide_border=true)
-
----
 
 ##  Me contacter
 
