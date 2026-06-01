@@ -12,13 +12,13 @@
 -  Bachelor 2 Informatique — Supinfo Paris (depuis oct. 2025)
 -  Passionné par la **data**, les bases de données et l'automatisation
 -  En train d'apprendre : **Power BI**, **pandas / matplotlib**, **visualisation de données**
--  Expérience : Stage QA @ EssilorLuxottica
+-  Expérience : Stage Analyse et reporting @ EssilorLuxottica
 -  À la recherche d'une **alternance Data Analyste**
 -  Contact : moustala005@gmail.com
 
 ---
 
-## 🛠️ Compétences techniques
+##  Compétences techniques
 
 | Catégorie | Technologies |
 |---|---|
@@ -32,7 +32,7 @@
 
 ##  Expériences
 
-**Stage Analyse et repoorting (Assurance Qualité)** — EssilorLuxottica, Créteil *(Mai – Août 2025)*
+**Stage Analyse et reporting (Assurance Qualité)** — EssilorLuxottica, Créteil *(Mai – Août 2025)*
 - Amélioration des couvertures de tests automatisés
 - Contribution à la définition des plans de test
 - Fiabilisation et documentation des cas de test
@@ -48,6 +48,9 @@
 
 | Projet | Description | Technologies |
 |---|---|---|
+| [ SupKonQuest](./supkonquest) | Jeu de stratégie temps réel type Risk, multijoueur en ligne | C++, SFML |
+| [ Plateforme de tournois](./tournament-platform) | API REST de gestion de tournois sportifs | PHP, Symfony, MySQL |
+| [ App React — Jeux vidéo](./rawg.io-react) | Explorateur de jeux avec l'API RAWG | React, Axios, Cypress |
 | [ iStore](./istore) | Application desktop de gestion d'inventaire | Java, MySQL |
 | [ BDD & Python](./projet-bdd-python) | Modélisation BDD + analyses avec Python | Python, SQL, MySQL |
 | [ App web de films](./app-films) | Site web avec API de films (JSON) | HTML, CSS, JS |
